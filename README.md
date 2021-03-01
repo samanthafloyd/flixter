@@ -12,7 +12,7 @@
 
 ### App Walkthrough GIF
 
-<img src="flixterpt2" width=250><br>
+<img src="flixterpt2.gif" width=250><br>
 
 # Flix
 
